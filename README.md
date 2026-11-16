@@ -22,10 +22,10 @@ I build AI the way I build products and run programs: a real user and problem, m
 
 ## Writing
 
-- [I put DORA, GDPR and PSD2 into an AI assistant. Here is what it took to trust it.](https://prashantbharam.vercel.app/writing/dora-gdpr-psd2-ai-assistant)
-- [My AI judge disagreed with itself. What that taught me about measuring AI.](https://prashantbharam.vercel.app/writing/my-ai-judge-disagreed-with-itself)
-- [Running an AI pilot like a regulated program](https://prashantbharam.vercel.app/writing/running-an-ai-pilot-like-a-regulated-program)
+- [I put DORA, GDPR and PSD2 into an AI assistant. Here is what it took to trust it.](https://prashantbharam.com/writing/dora-gdpr-psd2-ai-assistant)
+- [My AI judge disagreed with itself. What that taught me about measuring AI.](https://prashantbharam.com/writing/my-ai-judge-disagreed-with-itself)
+- [Running an AI pilot like a regulated program](https://prashantbharam.com/writing/running-an-ai-pilot-like-a-regulated-program)
 
-**More:** [Portfolio](https://prashantbharam.vercel.app) · [LinkedIn](https://www.linkedin.com/in/prashant-bharam)
+**More:** [Portfolio](https://prashantbharam.com) · [LinkedIn](https://www.linkedin.com/in/prashant-bharam)
 
 `Python` `Claude API` `RAG` `scikit-learn` `LLM evaluation` `Jira` `Confluence` `Scrum / SAFe` `PMP` `PRINCE2 Agile`
